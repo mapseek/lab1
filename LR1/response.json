@@ -1,0 +1,103 @@
+[ {
+  "weight" : 3502968,
+  "dateTime" : "2023-05-03T02:14:05.281",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "2389 milliseconds"
+}, {
+  "weight" : 5,
+  "dateTime" : "2023-05-02T23:22:28.457",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "MEMORY",
+  "elapsedTime" : "35 milliseconds"
+}, {
+  "weight" : 6,
+  "dateTime" : "2023-05-02T20:49:15.035",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "MEMORY",
+  "elapsedTime" : "37 milliseconds"
+}, {
+  "weight" : 3665248,
+  "dateTime" : "2023-05-02T18:02:38.308",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1518 milliseconds"
+}, {
+  "weight" : 3408412,
+  "dateTime" : "2023-05-02T15:03:24.349",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1620 milliseconds"
+}, {
+  "weight" : 4338595,
+  "dateTime" : "2023-05-02T12:05:31.046",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1694 milliseconds"
+}, {
+  "weight" : 3744078,
+  "dateTime" : "2023-05-02T09:06:24.156",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1414 milliseconds"
+}, {
+  "weight" : 3569649,
+  "dateTime" : "2023-05-02T06:41:53.453",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1676 milliseconds"
+}, {
+  "weight" : 4275618,
+  "dateTime" : "2023-05-02T03:43:56.819",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1356 milliseconds"
+}, {
+  "weight" : 8,
+  "dateTime" : "2023-05-02T00:45:02.731",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "MEMORY",
+  "elapsedTime" : "36 milliseconds"
+}, {
+  "weight" : 3408168,
+  "dateTime" : "2023-05-01T21:46:30.695",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1348 milliseconds"
+}, {
+  "weight" : 3408168,
+  "dateTime" : "2023-05-01T18:46:53.835",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1470 milliseconds"
+}, {
+  "weight" : 5,
+  "dateTime" : "2023-05-01T15:47:24.181",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "MEMORY",
+  "elapsedTime" : "25 milliseconds"
+}, {
+  "weight" : 3408168,
+  "dateTime" : "2023-05-01T12:51:11.210",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1663 milliseconds"
+}, {
+  "weight" : 3408168,
+  "dateTime" : "2023-05-01T09:52:05.068",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "2189 milliseconds"
+}, {
+  "weight" : 5,
+  "dateTime" : "2023-05-01T06:53:31.278",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "MEMORY",
+  "elapsedTime" : "26 milliseconds"
+}, {
+  "weight" : 3408168,
+  "dateTime" : "2023-05-01T03:56:37.339",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1186 milliseconds"
+} ]

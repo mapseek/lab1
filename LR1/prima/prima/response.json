@@ -1,0 +1,109 @@
+[ {
+  "weight" : 339367,
+  "dateTime" : "2023-04-28T00:15:35.881",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "106 milliseconds"
+}, {
+  "weight" : 339367,
+  "dateTime" : "2023-04-27T21:15:43.126",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "13 milliseconds"
+}, {
+  "weight" : 339373,
+  "dateTime" : "2023-04-27T18:17:31.164",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "236 milliseconds"
+}, {
+  "weight" : 339367,
+  "dateTime" : "2023-04-27T15:17:38.264",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "163 milliseconds"
+}, {
+  "weight" : 339367,
+  "dateTime" : "2023-04-27T12:17:57.855",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "223 milliseconds"
+}, {
+  "weight" : 526644,
+  "dateTime" : "2023-04-27T09:18:14.420",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "297 milliseconds"
+}, {
+  "weight" : 558105,
+  "dateTime" : "2023-04-27T06:18:22.698",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "334 milliseconds"
+}, {
+  "weight" : 384957,
+  "dateTime" : "2023-04-27T03:18:47.932",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "222 milliseconds"
+}, {
+  "weight" : 339367,
+  "dateTime" : "2023-04-27T00:18:53.827",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "155 milliseconds"
+}, {
+  "weight" : 3393824,
+  "dateTime" : "2023-04-26T21:21:51.542",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "906 milliseconds"
+}, {
+  "weight" : 3475022,
+  "dateTime" : "2023-04-26T18:22:00.052",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1173 milliseconds"
+}, {
+  "weight" : 3842637,
+  "dateTime" : "2023-04-26T15:22:17.152",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1352 milliseconds"
+}, {
+  "weight" : 3393824,
+  "dateTime" : "2023-04-26T12:22:23.915",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "779 milliseconds"
+}, {
+  "weight" : 3465015,
+  "dateTime" : "2023-04-26T09:22:31.211",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1303 milliseconds"
+}, {
+  "weight" : 3510379,
+  "dateTime" : "2023-04-26T06:22:56.018",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1282 milliseconds"
+}, {
+  "weight" : 3393824,
+  "dateTime" : "2023-04-26T03:23:06.678",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "880 milliseconds"
+}, {
+  "weight" : 3408168,
+  "dateTime" : "2023-04-26T00:24:30.584",
+  "executionType" : "SINGLE_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "909 milliseconds"
+}, {
+  "weight" : 3488378,
+  "dateTime" : "2023-04-25T21:24:38.205",
+  "executionType" : "MULTI_THREAD",
+  "dataSource" : "JSON",
+  "elapsedTime" : "1152 milliseconds"
+} ]
